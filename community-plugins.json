@@ -19243,13 +19243,6 @@
     "repo": "especialkim/obsidian-synaptic-view"
   },
   {
-    "id": "auto-pin",
-    "name": "Auto Pin",
-    "author": "SrWildman",
-    "description": "Automatically pin tabs based on configurable rules: path patterns, today's daily note, frontmatter properties, or exact file paths.",
-    "repo": "SrWildman/Obsidian-Auto-Pin"
-  },
-  {
     "id": "hide-traffic-lights",
     "name": "Hide Traffic Lights",
     "author": "Ben Phillips",
@@ -19276,5 +19269,12 @@
     "author": "Ryoma Kawahara",
     "description": "Displays a live progress bar summarizing checkbox completion in the active note.",
     "repo": "ryohma0510/obsidian-note-progressbar"
+  },
+  {
+    "id": "auto-pin",
+    "name": "Auto Pin",
+    "author": "SrWildman",
+    "description": "Automatically pin tabs based on configurable rules: path patterns, today's daily note, frontmatter properties, or exact file paths.",
+    "repo": "SrWildman/Obsidian-Auto-Pin"
   }
 ]
